@@ -24,7 +24,7 @@
   "dependencies": {
     "aws-sdk": "^2.266.1",
     "fs-extra": "^5.0.0",
-    "s3rver": "git+https://25d059ecaff4cdfabba458a7c9f419a565c2e559:x-oauth-basic@github.com/jkruse14/s3rver.git",
+    "s3rver": "git+https://25d059ecaff4cdfabba458a7c9f419a565c2e559:x-oauth-basic@github.com/jkruse14/s3rver.git#support-files-224",
     "serverless-offline": "^3.25.5",
     "shelljs": "^0.8.2"
   },
